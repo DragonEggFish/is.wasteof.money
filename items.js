@@ -1,5 +1,5 @@
 const items  = [
-    {name: 'iphone', isWaste: true},
+    {name: 'iphone', isWaste: false},
     {name: 'android', isWaste: false},
     {name: 'minecraft', isWaste: false},
     {name: 'air', isWaste: 'free'},
